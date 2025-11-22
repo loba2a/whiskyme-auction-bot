@@ -1,1 +1,0 @@
-# whiskyme-auction-bot
